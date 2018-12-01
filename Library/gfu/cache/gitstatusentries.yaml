@@ -12,936 +12,876 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-12-01T12:23:55.825+00:00
-  initializedAtString: 2018-12-01T12:21:31.931+00:00
+  lastUpdatedAtString: 2018-12-01T12:26:26.860+00:00
+  initializedAtString: 2018-12-01T12:26:16.446+00:00
   entries:
   - path: Assets\Plugins.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins.meta
     projectPath: Assets\Plugins.meta
     originalPath: 
-    status: 4
-    staged: 1
-  - path: Assets\Plugins\GitHub.meta
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub.meta
-    projectPath: Assets\Plugins\GitHub.meta
-    originalPath: 
-    status: 4
-    staged: 1
-  - path: Assets\Plugins\GitHub\Editor.meta
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor.meta
-    projectPath: Assets\Plugins\GitHub\Editor.meta
-    originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
     projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\big-logo@2x.png
     projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
     projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\credits.txt
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\credits.txt
     projectPath: Assets\Plugins\GitHub\Editor\credits.txt
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\credits.txt.meta
     projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\eula.txt
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\eula.txt
     projectPath: Assets\Plugins\GitHub\Editor\eula.txt
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\eula.txt.meta
     projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
     projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
     projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
     projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\libsfw.bundle
     projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
     projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\libsfw.so
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\libsfw.so
     projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\libsfw.so.meta
     projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
     projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
     projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
     projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
     projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\sfw.net.dll
     projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\System.Threading.dll
     projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
-  - path: Assets\Plugins\GitHub\Editor\x64.meta
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\x64.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
-    originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
     projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
     projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
     originalPath: 
-    status: 4
-    staged: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    originalPath: 
-    status: 4
-    staged: 1
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    originalPath: 
-    status: 4
-    staged: 1
-  - path: Assets\Plugins\GitHub\Editor\x86.meta
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\x86.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
-    originalPath: 
-    status: 4
-    staged: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    originalPath: 
-    status: 4
-    staged: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    originalPath: 
-    status: 4
-    staged: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    originalPath: 
-    status: 4
-    staged: 1
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\assetDatabase3
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
-    staged: 1
-  - path: Library\CurrentLayout.dwlt
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 1
+    staged: 0
   - path: Library\EditorInstance.json
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\expandedItems
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    status: 3
-    staged: 1
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 4
-    staged: 1
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    status: 4
-    staged: 1
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 4
-    staged: 1
+    status: 3
+    staged: 0
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    status: 4
-    staged: 1
+    status: 3
+    staged: 0
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    status: 4
-    staged: 1
+    status: 3
+    staged: 0
   - path: Library\gfu\cache\gituser.yaml
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
-    status: 4
-    staged: 1
+    status: 3
+    staged: 0
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    status: 4
-    staged: 1
+    status: 3
+    staged: 0
   - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
     projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
     projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\13\136dc24f151211d438acee17aff4e934
     projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
     projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\15\151a1d946b98deb4b98445400983ba92
     projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
     projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
     projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
     projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
     projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
     projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
     projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
     projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
     projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
     projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\21\219646ab8af949b47a1757fd7636de65
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\21\219646ab8af949b47a1757fd7636de65
     projectPath: Library\metadata\21\219646ab8af949b47a1757fd7636de65
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
     projectPath: Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\23\23c8bee69b591054094d32918f98facd
     projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
     projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
     projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
     projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\30\305b6e818055a104982596b94deddcef
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\30\305b6e818055a104982596b94deddcef
     projectPath: Library\metadata\30\305b6e818055a104982596b94deddcef
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\30\305b6e818055a104982596b94deddcef.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\30\305b6e818055a104982596b94deddcef.info
     projectPath: Library\metadata\30\305b6e818055a104982596b94deddcef.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
     projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
     projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\63\636d33ae594884e7d80b569f429d245d
     projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
     projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
     projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
     projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
     projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
     projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
     projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
     projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
     projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
     projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6
     projectPath: Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
     projectPath: Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
     projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
     projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\87\877ef3585573ce44eab899298be23158
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\87\877ef3585573ce44eab899298be23158
     projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\87\877ef3585573ce44eab899298be23158.info
     projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
     projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
     projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
     projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
     projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
     projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
     projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb
     projectPath: Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
     projectPath: Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
     projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
     projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
     projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
     projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
     projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
     projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
     projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
     projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
     projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
     projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
     projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
     projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
     projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
     projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
     projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
     projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e
     projectPath: Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
     projectPath: Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
     projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
     projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
     projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
     projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
     projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
     projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
-    status: 4
-    staged: 1
+    status: 5
+    staged: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
     originalPath: 
-    status: 4
-    staged: 1
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    status: 5
+    staged: 0
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
-    status: 3
-    staged: 1
+    status: 5
+    staged: 0
   - path: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
     projectPath: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
     originalPath: 
     status: 1
     staged: 0
+  - path: Temp\UnityEditor.StandardEvents.dll
+    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Temp\UnityEditor.StandardEvents.dll
+    projectPath: Temp\UnityEditor.StandardEvents.dll
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Temp\UnityLockfile
     fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7c8932471a8b9164b83184b62c15d231
+    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Temp\UnityTempFile-7c8932471a8b9164b83184b62c15d231
+    projectPath: Temp\UnityTempFile-7c8932471a8b9164b83184b62c15d231
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c63d03ca968f4c54baca519155ee0dac
+    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Temp\UnityTempFile-c63d03ca968f4c54baca519155ee0dac
+    projectPath: Temp\UnityTempFile-c63d03ca968f4c54baca519155ee0dac
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-db1bd82334ae0a547b133b5e250bed85
+    fullPath: C:\Users\westo.MSI-CHAN\Desktop\SS\Temp\UnityTempFile-db1bd82334ae0a547b133b5e250bed85
+    projectPath: Temp\UnityTempFile-db1bd82334ae0a547b133b5e250bed85
     originalPath: 
     status: 1
     staged: 0

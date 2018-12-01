@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-12-01T12:21:31.024+00:00
-  initializedAtString: 2018-12-01T12:21:31.024+00:00
+  lastUpdatedAtString: 2018-12-01T12:26:15.535+00:00
+  initializedAtString: 2018-12-01T12:26:15.535+00:00
   currentGitRemote:
     name: origin
     url: https://github.com/wessupermare/LHDSpaceShooter.git
