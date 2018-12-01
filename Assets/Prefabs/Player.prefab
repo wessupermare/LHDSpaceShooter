@@ -330,7 +330,7 @@ Rigidbody:
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
-  m_IsKinematic: 1
+  m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 80
   m_CollisionDetection: 0
@@ -486,8 +486,9 @@ MonoBehaviour:
   Bullet: {fileID: 1703684752863704, guid: 6ec3a8bc5ed3f9c449746e835d92e6dc, type: 2}
   BulletSpawn: {fileID: 4300080418944324}
   CameraOffset: {x: 0, y: 0.5, z: 0.25}
-  Speed: 3
+  Speed: 5
   StrafeSpeed: 150
+  JumpSpeed: 10
   FireRate: 0.5
   MuzzleVelocity: 20
 --- !u!114 &114924197799645046

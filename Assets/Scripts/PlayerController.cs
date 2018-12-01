@@ -10,14 +10,17 @@ public class PlayerController : NetworkBehaviour
     public Transform BulletSpawn;
     public Vector3 CameraOffset;
 
-    public float Speed = 3.0f;
+    public float Speed = 5.0f;
     public float StrafeSpeed = 150.0f;
+    public float JumpSpeed = 10.0f;
     public float FireRate = 0.5f;
     public int MuzzleVelocity = 10;
 
+    private Rigidbody rb;
+
 	void Start ()
     {
-		
+        rb = GetComponent<Rigidbody>();
 	}
 
     public override void OnStartLocalPlayer()
@@ -32,20 +35,26 @@ public class PlayerController : NetworkBehaviour
         if (!isLocalPlayer)
             return;
 
-        if (Mathf.Abs(transform.rotation.x) > 0.1f || Mathf.Abs(transform.rotation.z) > 0.1f)
-            transform.SetPositionAndRotation(transform.position, Quaternion.Euler(0, transform.rotation.y, 0));
+        if (transform.position.y < -5f)
+            GetComponent<Health>().TakeDamage(100);
 
         var x = Input.GetAxis("Horizontal") * Time.deltaTime * Speed;
         var z = Input.GetAxis("Vertical") * Time.deltaTime * Speed;
 
-        var hSpin = Input.GetAxis("HorizontalRotate") * Time.deltaTime * StrafeSpeed;
-        var vSpin = Input.GetAxis("VerticalRotate") * Time.deltaTime * StrafeSpeed;
-
-        transform.Rotate(0, hSpin, 0);
+        var hSpin = Input.GetAxisRaw("HorizontalRotate") * Time.deltaTime * StrafeSpeed;
+        var vSpin = Input.GetAxisRaw("VerticalRotate") * Time.deltaTime * StrafeSpeed;
+        
+        transform.localEulerAngles = new Vector3(0, transform.localEulerAngles.y + hSpin, 0);
         BulletSpawn.transform.Rotate(vSpin, 0, 0);
-        transform.Translate(0, x, z);
+        transform.Translate(x, 0, z);
 
-        if (cooloff >= FireRate && Input.GetAxis("Fire1") > 0.1f)
+        if (canJump && Input.GetAxisRaw("Jump") >= 0.2f)
+        {
+            canJump = false;
+            rb.velocity = new Vector3(rb.velocity.x, JumpSpeed, rb.velocity.z);
+        }
+
+        if (cooloff >= FireRate && Input.GetAxis("Shoot") > 0.1f)
             CmdFire();
         else
             cooloff += Time.deltaTime;
@@ -57,6 +66,14 @@ public class PlayerController : NetworkBehaviour
             return;
 
         Camera.main.transform.SetPositionAndRotation(transform.position + CameraOffset, BulletSpawn.rotation);
+    }
+
+    private bool canJump = true;
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.collider.CompareTag("Floor"))
+            canJump = true;
     }
 
     [Command]
