@@ -28,15 +28,17 @@ public class PlayerController : NetworkBehaviour
         GetComponent<MeshRenderer>().material.color = Color.blue;
     }
 
-    float cooloff = 0f;
     // Update is called once per frame
-    void Update ()
+    void Update()
     {
         if (!isLocalPlayer)
+        {
+            if (transform.position.y < -5f)
+                GetComponent<Health>().TakeDamage(100);
             return;
+        }
 
-        if (transform.position.y < -5f)
-            GetComponent<Health>().TakeDamage(100);
+        cooloff += Time.deltaTime;
 
         var x = Input.GetAxis("Horizontal") * Time.deltaTime * Speed;
         var z = Input.GetAxis("Vertical") * Time.deltaTime * Speed;
@@ -56,8 +58,6 @@ public class PlayerController : NetworkBehaviour
 
         if (cooloff >= FireRate && (Input.GetAxis("Shoot") + Input.GetAxis("Fire1") > 0.1f))
             CmdFire();
-        else
-            cooloff += Time.deltaTime;
     }
 
     private void LateUpdate()
@@ -75,6 +75,10 @@ public class PlayerController : NetworkBehaviour
         if (collision.collider.CompareTag("Floor"))
             canJump = true;
     }
+    
+    float cooloff = 0f;
+
+    bool forceCool = false;
 
     [Command]
     void CmdFire()
