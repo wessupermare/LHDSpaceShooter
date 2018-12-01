@@ -54,7 +54,7 @@ public class PlayerController : NetworkBehaviour
             rb.velocity = new Vector3(rb.velocity.x, JumpSpeed, rb.velocity.z);
         }
 
-        if (cooloff >= FireRate && Input.GetAxis("Shoot") > 0.1f)
+        if (cooloff >= FireRate && (Input.GetAxis("Shoot") + Input.GetAxis("Fire1") > 0.1f))
             CmdFire();
         else
             cooloff += Time.deltaTime;
