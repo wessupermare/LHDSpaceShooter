@@ -32,11 +32,18 @@ public class PlayerController : NetworkBehaviour
         if (!isLocalPlayer)
             return;
 
-        var x = Input.GetAxis("Horizontal") * Time.deltaTime * StrafeSpeed;
+        if (Mathf.Abs(transform.rotation.x) > 0.1f || Mathf.Abs(transform.rotation.z) > 0.1f)
+            transform.SetPositionAndRotation(transform.position, Quaternion.Euler(0, transform.rotation.y, 0));
+
+        var x = Input.GetAxis("Horizontal") * Time.deltaTime * Speed;
         var z = Input.GetAxis("Vertical") * Time.deltaTime * Speed;
 
-        transform.Rotate(0, x, 0);
-        transform.Translate(0, 0, z);
+        var hSpin = Input.GetAxis("HorizontalRotate") * Time.deltaTime * StrafeSpeed;
+        var vSpin = Input.GetAxis("VerticalRotate") * Time.deltaTime * StrafeSpeed;
+
+        transform.Rotate(0, hSpin, 0);
+        BulletSpawn.transform.Rotate(vSpin, 0, 0);
+        transform.Translate(0, x, z);
 
         if (cooloff >= FireRate && Input.GetAxis("Fire1") > 0.1f)
             CmdFire();
@@ -49,7 +56,7 @@ public class PlayerController : NetworkBehaviour
         if (!isLocalPlayer)
             return;
 
-        Camera.main.transform.SetPositionAndRotation(transform.position + CameraOffset, transform.rotation);
+        Camera.main.transform.SetPositionAndRotation(transform.position + CameraOffset, BulletSpawn.rotation);
     }
 
     [Command]

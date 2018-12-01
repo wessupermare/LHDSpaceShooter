@@ -22,13 +22,29 @@ public class Health : NetworkBehaviour
 
         if (CurrentHealth <= 0)
         {
-            CurrentHealth = 0;
-            Debug.Log("Dead!");
+            CurrentHealth = MaxHealth;
+            RpcRespawn();
         }
     }
 
     void OnChangeHealth(int currentHealth)
     {
         HealthBar.sizeDelta = new Vector2(currentHealth, HealthBar.sizeDelta.y);
+    }
+
+    private NetworkStartPosition[] sps;
+
+    private void Awake()
+    {
+        sps = FindObjectsOfType<NetworkStartPosition>();
+    }
+
+    [ClientRpc]
+    void RpcRespawn()
+    {
+        if (!isLocalPlayer)
+            return;
+
+        transform.position = sps[Random.Range(0, sps.Length)].transform.position;
     }
 }
